@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c504e9a0-21c3-40e4-9153-0dc9a24d223d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/RomanNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RomanNumbers.java" afterDir="false" />
+    <list default="true" id="c504e9a0-21c3-40e4-9153-0dc9a24d223d" name="Changes" comment="RomanNumbers 1.0">
+      <change afterPath="$PROJECT_DIR$/Test/LongestCommonPrefix14Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefix14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
     </option>
@@ -40,8 +36,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.LongestCommonPrefix14.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RomanNumbers.executor": "Debug",
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.LongestCommonPrefix14Test.longestCommonPrefix.executor": "Run",
     "JUnit.RomanNumbersTest.executor": "Run",
     "JUnit.RomanNumbersTest.romanToInt.executor": "Run",
     "Repository.Attach.Annotations": "false",
@@ -64,10 +64,27 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RomanNumbers">
+  <component name="RunManager" selected="JUnit.LongestCommonPrefix14Test.longestCommonPrefix">
+    <configuration name="LongestCommonPrefix14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix14" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RomanNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RomanNumbers" />
       <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix14Test.longestCommonPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix14Test" />
+      <option name="METHOD_NAME" value="longestCommonPrefix" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,6 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestCommonPrefix14Test.longestCommonPrefix" />
+        <item itemvalue="Application.LongestCommonPrefix14" />
         <item itemvalue="Application.RomanNumbers" />
         <item itemvalue="JUnit.RomanNumbersTest.romanToInt" />
         <item itemvalue="JUnit.RomanNumbersTest" />
@@ -116,6 +135,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707582989894</updated>
     </task>
+    <task id="LOCAL-00001" summary="RomanNumbers 1.0">
+      <option name="closed" value="true" />
+      <created>1707588519630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707588519630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RomanNumbers 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="RomanNumbers 1.0" />
   </component>
 </project>
