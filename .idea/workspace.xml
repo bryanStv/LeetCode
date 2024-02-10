@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c504e9a0-21c3-40e4-9153-0dc9a24d223d" name="Changes" comment="RomanNumbers 1.0">
-      <change afterPath="$PROJECT_DIR$/Test/LongestCommonPrefix14Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestCommonPrefix14.java" afterDir="false" />
+    <list default="true" id="c504e9a0-21c3-40e4-9153-0dc9a24d223d" name="Changes" comment="LongestCommonPrefix 1.0">
+      <change afterPath="$PROJECT_DIR$/src/ValidParentheses20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,6 +39,7 @@
     "Application.LongestCommonPrefix14.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RomanNumbers.executor": "Debug",
+    "Application.ValidParentheses20.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.LongestCommonPrefix14Test.longestCommonPrefix.executor": "Run",
     "JUnit.RomanNumbersTest.executor": "Run",
@@ -64,7 +64,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LongestCommonPrefix14Test.longestCommonPrefix">
+  <component name="RunManager" selected="JUnit.ValidParentheses20Test.isValid">
     <configuration name="LongestCommonPrefix14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestCommonPrefix14" />
       <module name="LeetCode" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RomanNumbers" />
+    <configuration name="ValidParentheses20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidParentheses20" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,20 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidParentheses20Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RomanNumbersTest" />
+      <option name="MAIN_CLASS_NAME" value="ValidParentheses20Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumbersTest.romanToInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidParentheses20Test.isValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RomanNumbersTest" />
-      <option name="METHOD_NAME" value="romanToInt" />
+      <option name="MAIN_CLASS_NAME" value="ValidParentheses20Test" />
+      <option name="METHOD_NAME" value="isValid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ValidParentheses20Test.isValid" />
+        <item itemvalue="JUnit.ValidParentheses20Test" />
+        <item itemvalue="Application.ValidParentheses20" />
         <item itemvalue="JUnit.LongestCommonPrefix14Test.longestCommonPrefix" />
         <item itemvalue="Application.LongestCommonPrefix14" />
-        <item itemvalue="Application.RomanNumbers" />
-        <item itemvalue="JUnit.RomanNumbersTest.romanToInt" />
-        <item itemvalue="JUnit.RomanNumbersTest" />
       </list>
     </recent_temporary>
   </component>
@@ -143,11 +143,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707588519630</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LongestCommonPrefix 1.0">
+      <option name="closed" value="true" />
+      <created>1707595986248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707595986248</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RomanNumbers 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="RomanNumbers 1.0" />
+    <MESSAGE value="LongestCommonPrefix 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestCommonPrefix 1.0" />
   </component>
 </project>
